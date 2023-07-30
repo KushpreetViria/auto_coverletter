@@ -1,0 +1,59 @@
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyi
+*.pyc
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Development and OS-specific
+*.ipynb_checkpoints/
+*.vscode/
+*.idea/
+*.pydevproject
+*.project
+*.pyc
+.DS_Store
+
+# Editor-specific
+*.code-workspace
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Compiled C++ files
+*.so
+
+# Build directories
+*.egg-info/
+dist/
+build/
+
+# Logs and data files
+*.log
+*.csv
+*.sqlite3
+
+# Ignore the virtual environment for pipenv
+.Python
+
+# Miscellaneous
+*.swp
+*~
+
+#extra
+*.docx
